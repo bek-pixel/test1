@@ -9,19 +9,27 @@
     box-sizing: border-box;
 }
 
+/* container */
+
 .container {
     max-width: 1091px;
     width: 100%;
     margin: 0 auto;
 }
 
+/* a href */
+
 a {
     text-decoration: none;
 }
 
+/* input */
+
 input {
     outline: none;
 }
+
+/* button */
 
 button {
     cursor: pointer;
